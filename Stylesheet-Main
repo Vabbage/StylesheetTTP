@@ -1,0 +1,97 @@
+body {
+        background-image: url("https://wallpaper-house.com/data/out/9/wallpaper2you_345947.jpg");
+
+  }
+  
+  #main {
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    background-repeat: repeat-y;
+    
+  }
+  #intro {
+    font-family: cursive;
+    border: ridge 5px green;
+    padding: 10px
+    background-color: ; 
+    text-align: center;
+  }
+    #box-intro {
+      
+      background-color: white; 
+    }
+  
+  .button {
+    
+   background-color: #bcff99;
+   font-weight: bold;
+   padding: 10px 20.5px 10px 20.5px;
+   font-size: 12px;
+   cursor: pointer;
+  
+    
+  }
+  
+  .button:hover {
+    
+    background-color: white;
+    
+  }
+  
+  
+  .main-paragraph {
+    
+    font-family: Comic Sans MS, Sans Serif;
+    font-size: 13px;
+    
+  }
+  
+  .box-mp {
+     
+    background-color: #e8f7e9;
+    border: double 5px green;
+    padding: 5px;
+    margin-bottom: 10px;
+    
+    
+    
+  }
+  
+  #gardenwoman {
+    
+    float: right;
+    padding: 7px;
+    
+  }
+  
+  .sidebar1 {
+    float: left;
+    margin-left: 5px;
+    margin-top:11px;
+    background-color: #e8f7e9;
+    font-family: Comic Sans MS, Sans Serif;
+    padding: 10px;
+    border: ridge 3px Green;
+    font-size: 13.4px;
+    width: 26%;
+  }
+  
+   .sidebar2 {
+      
+    float:left ;
+    margin-left: 5px;
+    margin-top:10px;
+    background-color: #e8f7e9;
+    font-family: Comic Sans MS, Sans Serif;
+    padding: 10px;
+    border: ridge 3px Green;
+    font-size: 13.4px;
+    width: 26%;
+    clear: left;
+      
+      }
+    
+    
+    
+  }
